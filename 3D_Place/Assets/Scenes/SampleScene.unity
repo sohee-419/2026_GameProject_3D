@@ -3677,7 +3677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdf0cc1089ff39948b0590f9d9a452d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Exhibit
-  panel: {fileID: 0}
+  panel: {fileID: 1753902430}
   prompt: {fileID: 1189360925}
 --- !u!65 &1270787921
 BoxCollider:
