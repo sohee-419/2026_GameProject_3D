@@ -3083,7 +3083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89ec668d743733a45b4d7937ca5231f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInteractor
-  mover: {fileID: 0}
+  mover: {fileID: 1056098492}
 --- !u!1 &1060503661
 GameObject:
   m_ObjectHideFlags: 0
